@@ -8,6 +8,10 @@ public class TETRIS {
         javax.swing.SwingUtilities.invokeLater(window);
         window.addFigure();
 
+
+
+
+
     }
 }
 
